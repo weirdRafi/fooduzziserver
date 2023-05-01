@@ -8,3 +8,9 @@ const allServices =require('./data.json')
 app.get('/allData', (req, res) =>{
     res.send(allServices)
 })
+
+app.get('/allData/:id', (req, res) =>{
+    const id = req.params.id;
+    const item = allServices?.find(pd => pd.id == id)
+    res.send({item})
+})
