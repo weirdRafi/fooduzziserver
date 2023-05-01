@@ -14,3 +14,8 @@ app.get('/allData/:id', (req, res) =>{
     const item = allServices?.find(pd => pd.id == id)
     res.send({item})
 })
+
+
+app.listen(3000, ()=>{
+    console.log("server is running");
+})
