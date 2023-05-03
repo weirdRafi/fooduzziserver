@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "food_name": "Spaghetti Bolognese",
+        "ingredients": [
+            "spaghetti",
+            "ground beef",
+            "tomato sauce",
+            "onion",
+            "garlic",
+            "Parmesan cheese"
+        ],
+        "cooking_method": "Boil spaghetti in salted water until al dente. Brown ground beef in a pan, then add tomato sauce, onion, and garlic. Simmer for 20 minutes. Serve sauce over cooked spaghetti and top with Parmesan cheese.",
+        "rating": 4.5,
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/the-best-spaghetti-bolognese-7e83155.jpg?quality=90&webp=true&resize=300,272",
+        "country": "Italy"
+    },
+    {
+        "id": 2,
+        "food_name": "Margherita Pizza",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "fresh basil"
+        ],
+        "cooking_method": "Roll out pizza dough, spread tomato sauce over it, and top with mozzarella cheese and basil. Bake in a hot oven until crust is crispy and cheese is melted.",
+        "rating": 4.7,
+        "image": "https://www.acouplecooks.com/wp-content/uploads/2018/10/Margherita-Pizza-018.jpg",
+        "country": "Italy"
+    },
+    {
+        "id": 3,
+        "food_name": "Tiramisu",
+        "ingredients": [
+            "ladyfingers",
+            "coffee",
+            "mascarpone cheese",
+            "eggs",
+            "sugar",
+            "cocoa powder"
+        ],
+        "cooking_method": "Dip ladyfingers in coffee and layer them with a mixture of mascarpone cheese, eggs, and sugar. Dust with cocoa powder and chill in the refrigerator for several hours.",
+        "rating": 4.6,
+        "image": "https://media.istockphoto.com/id/1422163265/photo/tiramisu.jpg?s=612x612&w=0&k=20&c=c5uxhh5Ba8gFraWI1e09E0hW-LYbsP_DZaIqDL9ThDI=",
+        "country": "Italy"
+    }
+]

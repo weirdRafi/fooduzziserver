@@ -5,7 +5,7 @@
         "name": "John Smith",
         "description": "This recipe is for a classic spaghetti carbonara, a delicious and comforting pasta dish that originates from Italy. The dish consists of spaghetti noodles tossed with a rich and creamy sauce made from eggs, bacon or pancetta, Parmesan cheese, garlic, and black pepper.",
         "experience": 12,
-        "recipes": 64,
+        "recipes": 4,
         "likes": 1200
     },
     {
@@ -14,7 +14,7 @@
         "name": "Maria Gonzalez",
         "description": "This recipe is for a classic spaghetti carbonara, a delicious and comforting pasta dish that originates from Italy. The dish consists of spaghetti noodles tossed with a rich and creamy sauce made from eggs, bacon or pancetta, Parmesan cheese, garlic, and black pepper.",
         "experience": 8,
-        "recipes": 32,
+        "recipes": 5,
         "likes": 550
     },
     {
@@ -23,7 +23,7 @@
         "name": "Peter Lee",
         "description": "This recipe is for a classic spaghetti carbonara, a delicious and comforting pasta dish that originates from Italy. The dish consists of spaghetti noodles tossed with a rich and creamy sauce made from eggs, bacon or pancetta, Parmesan cheese, garlic, and black pepper.",
         "experience": 15,
-        "recipes": 85,
+        "recipes": 3,
         "likes": 2200
     },
     {
@@ -32,25 +32,25 @@
         "name": "Lila Patel",
         "description": "This recipe is for a classic spaghetti carbonara, a delicious and comforting pasta dish that originates from Italy. The dish consists of spaghetti noodles tossed with a rich and creamy sauce made from eggs, bacon or pancetta, Parmesan cheese, garlic, and black pepper.",
         "experience": 10,
-        "recipes": 50,
+        "recipes": 5,
         "likes": 800
     },
     {
         "id": 5,
-        "picture": "https://media.istockphoto.com/id/1391235635/photo/portrait-of-black-female-chef-preparing-dish-tasting-food-and-enjoying-it-professional.jpg?b=1&s=170667a&w=0&k=20&c=oIDpaUFUuj3cFrELlrJgJvftBOZrYCWoLeEWjOQ_Q-c=",
-        "name": "David Hernandez",
+        "picture": "https://media.istockphoto.com/id/1367987410/photo/smiling-female-chef-in-toque-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=7VNReKjQf4f3t6KiQ0vzNrlcoZOg53o-sCZNRyHdh7c=",
+        "name": "Sophie Martin",
         "description": "This recipe is for a classic spaghetti carbonara, a delicious and comforting pasta dish that originates from Italy. The dish consists of spaghetti noodles tossed with a rich and creamy sauce made from eggs, bacon or pancetta, Parmesan cheese, garlic, and black pepper.",
         "experience": 20,
-        "recipes": 100,
+        "recipes": 4,
         "likes": 3000
     },
     {
         "id": 6,
-        "picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "name": "Sophie Martin",
+        "picture": "https://media.istockphoto.com/id/1341912104/photo/portrait-of-a-successful-chef-at-a-restaurant-with-arms-crossed.jpg?s=612x612&w=0&k=20&c=FR5coMfi0HWIXP9L9ykma423FsRxlRMS707bOOBtk7o=",
+        "name": "David Hernandez ",
         "description": "This recipe is for a classic spaghetti carbonara, a delicious and comforting pasta dish that originates from Italy. The dish consists of spaghetti noodles tossed with a rich and creamy sauce made from eggs, bacon or pancetta, Parmesan cheese, garlic, and black pepper.",
         "experience": 5,
-        "recipes": 20,
+        "recipes": 3,
         "likes": 250
     }
 ]
